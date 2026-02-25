@@ -1,2 +1,4 @@
 # math189-final-project
-group project on advertising
+extract the `ads.zip` for the data, 
+
+if you try to push the full csv file, it won't let you because the file is too large
